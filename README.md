@@ -1,1 +1,1 @@
-# Useful-algo-containers-for-competetive-programming-
+# Useful-algo-for-competetive-programming
